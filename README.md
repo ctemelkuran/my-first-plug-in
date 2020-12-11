@@ -1,1 +1,1 @@
-"# my-first-plug-in" 
+This is a repository for self-learning about Revit APIs.
